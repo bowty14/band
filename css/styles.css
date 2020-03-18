@@ -1,0 +1,11 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: indianred;
+}
+
+
+img.band {
+    width:50%;
+    float: left;
+}
