@@ -1,12 +1,15 @@
 .sidebar {
-  width: 30%;
-  float: right;
-  background-color: indianred;
+  margin: 12px;
+  border: 10px solid green;
+  padding: 4px;
+  background-color: orange;
+float: right;
+width: 30%;
 }
 
 
 img.band {
-    width:30%;
-    float: right;
+    padding: 20px;
+    width: 70%;
     
 }
